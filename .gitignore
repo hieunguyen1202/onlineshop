@@ -1,0 +1,24 @@
+# Ignore NetBeans specific files
+/nbproject/private/
+/nbproject/build/
+/nbproject/genfiles.properties
+
+# Ignore build directories
+/build/
+/dist/
+
+# Ignore build files
+/build/build-impl.xml
+
+# Ignore all XML and property files
+*.xml
+*.properties
+
+# Ignore JAR files
+*.jar
+
+# Ignore IDE-specific files (optional, if using other IDEs)
+*.class
+*.log
+*.war
+*.ear
