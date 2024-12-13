@@ -8,7 +8,14 @@
 
 •Integrated VNPAY payment method
 
+Main Features:
+- Product Management:
+Enables the addition, editing, and removal of products, along with managing inventory quantities.
 
+- Shopping Cart and Checkout:
+Allows users to view their cart, modify items, and complete purchases securely through a streamlined checkout process.
+- Order Management:
+Provides users and administrators with access to order details, history, and tracking, ensuring efficient processing and fulfillment.
 
 HOME PAGE SCREEN:
 
